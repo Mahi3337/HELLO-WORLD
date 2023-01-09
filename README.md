@@ -1,2 +1,0 @@
-# HELLO-WORLD
-I=input("HELLO WORLD")
